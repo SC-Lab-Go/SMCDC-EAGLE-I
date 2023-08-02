@@ -39,7 +39,11 @@ The Environment for the Analysis of Geo Located Energy Information (EAGLE-I) mon
 ### Dataset download
 To download the datasets from the following links, you will need to use [Globus](https://www.globus.org/) and create an account. 
 * If you are using an HPC: Once you sign in, check if there is a Globus collection hosted on your HPC in the 'File Manager' tab.
+<<<<<<< HEAD
 ![Alt text](globus.png)
+=======
+![Alt text](image.png)
+>>>>>>> e96db701b5fc6cf94100457c8954f5f13c27c1ef
 
 * In most other cases, install [Globus Connect Personal](https://www.globus.org/globus-connect-personal) on whichever device you would like to have these datasets downloaded to. Once your server is running, you can search for it like any other connection.
 
